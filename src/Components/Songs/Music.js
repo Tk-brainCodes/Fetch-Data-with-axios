@@ -23,6 +23,7 @@ const Music = () => {
         <div>
          <h1>Response</h1>
          <div className="response__data">
+         <h1>fetching data from an api using axios</h1>
          </div>
         </div>
     );
